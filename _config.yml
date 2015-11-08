@@ -9,16 +9,16 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: Nick Kasprzak  
+email: nick.kasprzak@utexas.edu 
 facebook_username:
 twitter_username:
-github_username:
-address:
+github_username: nksprzak
+address: 2505 Longview St. Apt. # 324
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:
+telephone: 832-628-4047
 copyright:
 
 # API settings
